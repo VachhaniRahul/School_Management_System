@@ -1,0 +1,23 @@
+myvenv
+
+# Django specific
+*.sqlite3
+db.sqlite3
+/media/
+staticfiles/
+.env
+*.log
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+
+
+# VS Code specific
+.vscode/
+
+
+
